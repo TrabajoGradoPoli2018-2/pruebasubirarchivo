@@ -427,7 +427,7 @@
                                                                                                     <node type="org.lgna.project.ast.BlockStatement" uuid="43698e7f-4062-49a1-9498-d42a8c80f9c1">
                                                                                                         <property name="statements">
                                                                                                             <collection type="java.util.ArrayList">
-                                                                                                                <node type="org.lgna.project.ast.Comment" uuid="2c274dcf-572a-4486-a97b-acf3eb9846bd">
+                                                                                                                <node type="org.lgna.project.ast.Comment" uuid="50314c57-c193-4645-adb2-0aaee18f3842">
                                                                                                                     <property name="text">
                                                                                                                         <value type="java.lang.String">DO NOT EDIT
 This code is automatically generated.  Any work you perform in this method will be overwritten.
@@ -437,11 +437,11 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="e7199fb8-9454-43ca-8509-4948b23182c8">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="02ecabc2-dd81-486a-9fca-88859418fd3d">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="ba0c7a68-7460-4d0b-9a2c-6f3004915d6b">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="6dcea784-9e83-4f26-b652-f591c7901ef9">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="2e8eb3fd-fdc7-48e4-8dca-978b1124ecc1"/>
+                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="1ab61d02-dfdd-4af1-a6ee-3274c2d476cc"/>
                                                                                                                             </property>
                                                                                                                             <property name="method">
                                                                                                                                 <node key="16" type="org.lgna.project.ast.JavaMethod" uuid="96406ccb-f9d9-45ee-a32c-c3d64e8e85a4">
@@ -456,7 +456,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="42941a11-e8d0-4321-91a7-df162994ab15">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="5b6f4b9b-e0a1-4b18-b7fe-055072b995ca">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="17" type="org.lgna.project.ast.JavaMethodParameter" uuid="33d128bf-4499-4426-a1cb-a3fcc60525e9">
                                                                                                                                                 <node key="16"/>
@@ -464,7 +464,7 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.InstanceCreation" uuid="12975964-e983-4c09-92fd-2e55d94acbca">
+                                                                                                                                            <node type="org.lgna.project.ast.InstanceCreation" uuid="af51d54f-7a03-4a5f-93f2-072a45623c9b">
                                                                                                                                                 <property name="constructor">
                                                                                                                                                     <node key="18" type="org.lgna.project.ast.JavaConstructor" uuid="f6a50c28-219b-4d86-bbc0-fc20dbc6eeeb">
                                                                                                                                                         <constructor isVarArgs="false">
@@ -479,7 +479,7 @@ DO NOT EDIT</value>
                                                                                                                                                 </property>
                                                                                                                                                 <property name="requiredArguments">
                                                                                                                                                     <collection type="java.util.ArrayList">
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="17451dd8-62f5-4201-b370-a37f74ba9501">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="8e9533cb-c6d6-4958-a7af-7b15a842a287">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="19" type="org.lgna.project.ast.JavaConstructorParameter" uuid="029a1947-e021-48aa-9b74-708f3c36e95b">
                                                                                                                                                                     <node key="18"/>
@@ -487,14 +487,14 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="fbbb72bc-84f6-461a-8067-ae15243b02f2">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="991df6f4-8bc8-47bd-ae57-53ec48aed42d">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">0.588</value>
                                                                                                                                                                     </property>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                         </node>
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="a11cc6e7-82bb-4bea-8a40-a1ac24bb543b">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="5ee0c42c-728c-49dd-a69f-e585e6a7b85b">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="1a" type="org.lgna.project.ast.JavaConstructorParameter" uuid="da705c32-9d93-43f8-8946-004c14a8b97c">
                                                                                                                                                                     <node key="18"/>
@@ -502,14 +502,14 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="04327472-f3c1-4ed5-8e46-2046c6b9fa4d">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="1ed0cdd4-4194-44d2-8b0d-8dbc650442bf">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">0.886</value>
                                                                                                                                                                     </property>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                         </node>
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="1fdd3b58-c649-4606-8240-74b29a11c3d6">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="a93b120e-0858-4247-b02e-b3d17e3165c8">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="1b" type="org.lgna.project.ast.JavaConstructorParameter" uuid="f7b756df-35e0-4e9f-8aa3-11487502c3ae">
                                                                                                                                                                     <node key="18"/>
@@ -517,7 +517,7 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="29504be0-ce2e-49a3-ac6e-9bdf7fd7fd6b">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="fd9da6ca-a865-4b07-a276-12cf99510c72">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">0.988</value>
                                                                                                                                                                     </property>
@@ -549,11 +549,11 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="c8829959-929d-4fd2-8145-99fea4dc5d28">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="151c941f-bc12-4a65-a181-463865eb2843">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="f9ea6735-6816-4113-955c-1d1c184825ae">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="1bedf710-82e9-44fa-9941-383db9f3b70a">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="d68dc3a5-bedd-4460-b76f-a373d94260bf"/>
+                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="2a0e4999-2384-4202-a505-358d61bfa422"/>
                                                                                                                             </property>
                                                                                                                             <property name="method">
                                                                                                                                 <node key="1c" type="org.lgna.project.ast.JavaMethod" uuid="2fa4b981-6963-49a8-994a-1b7aa6ed3779">
@@ -568,7 +568,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="47d2a6f8-5942-4c9e-b12f-1c9fe60c2502">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="49e160d0-f41d-4a9d-96c8-1c61d5f1d12a">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="1d" type="org.lgna.project.ast.JavaMethodParameter" uuid="8220ee88-6b43-4140-92c6-0324aef945f7">
                                                                                                                                                 <node key="1c"/>
@@ -576,9 +576,9 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.FieldAccess" uuid="3d2a3889-fb94-4c33-a9d7-8f62259c1179">
+                                                                                                                                            <node type="org.lgna.project.ast.FieldAccess" uuid="260fd05d-2d39-4d14-9d10-fb62ca2e96bc">
                                                                                                                                                 <property name="expression">
-                                                                                                                                                    <node type="org.lgna.project.ast.TypeExpression" uuid="a256a616-ff2f-4c94-89c3-9cfe285b15ae">
+                                                                                                                                                    <node type="org.lgna.project.ast.TypeExpression" uuid="eb234b3b-6cdb-4c09-9dd3-73971ec97df8">
                                                                                                                                                         <property name="value">
                                                                                                                                                             <node key="1e" type="org.lgna.project.ast.JavaType" uuid="50eb881f-e4ee-40fc-9a25-3f20fd2223d0">
                                                                                                                                                                 <type name="org.lgna.story.Color"/>
@@ -610,11 +610,11 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="1fe7d59d-ff20-4f72-8c51-e0b8fba0b35a">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="a694d863-c1c7-4938-8491-923eeead8682">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="97f4cbdc-f3a1-471f-99bf-dc8c8ee1f886">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="d2739492-c63a-4218-9537-587baa2c6ecf">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="7cac11cb-c728-4615-a2f7-3d72f49a0560"/>
+                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="df2acaa6-5f1b-4fcb-b6a4-2a22d1464a3e"/>
                                                                                                                             </property>
                                                                                                                             <property name="method">
                                                                                                                                 <node key="20" type="org.lgna.project.ast.JavaMethod" uuid="c7d0bab1-816f-4e47-a693-f6793faa492e">
@@ -629,7 +629,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="b2b63d7b-79b5-4b19-937a-0108e48be4a3">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="44ce0629-b888-4724-a8fa-1b028fe98755">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="21" type="org.lgna.project.ast.JavaMethodParameter" uuid="343791db-8f44-4eb5-8ebb-9fad5c9bdb72">
                                                                                                                                                 <node key="20"/>
@@ -637,9 +637,9 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.FieldAccess" uuid="22cb3fa2-e140-4a6c-bab0-3caa6b0ff8a8">
+                                                                                                                                            <node type="org.lgna.project.ast.FieldAccess" uuid="04f46dc5-cdbd-44d5-a1f6-657c55ced732">
                                                                                                                                                 <property name="expression">
-                                                                                                                                                    <node type="org.lgna.project.ast.TypeExpression" uuid="8889bc01-154a-4d70-a2a2-8b415d5d58ac">
+                                                                                                                                                    <node type="org.lgna.project.ast.TypeExpression" uuid="646abefd-2032-4fa5-b661-377517ba7aba">
                                                                                                                                                         <property name="value">
                                                                                                                                                             <node key="1e"/>
                                                                                                                                                         </property>
@@ -669,11 +669,11 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="281b4564-1a43-4c92-bd28-c38788557a52">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="57046498-907f-4013-b1cf-ec6fef60e521">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="90904f74-4511-462a-930a-466491fe950e">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="6af724ec-e9b4-49e7-9250-09f598868956">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="a630edd0-b79d-42ea-8d26-106e40ead760"/>
+                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="6d963083-0b56-473f-9bac-980d3cb17b4d"/>
                                                                                                                             </property>
                                                                                                                             <property name="method">
                                                                                                                                 <node key="23" type="org.lgna.project.ast.JavaMethod" uuid="37427470-69f6-4964-a81e-a2158c9753cd">
@@ -688,7 +688,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="0a5c4dda-1e42-4457-8f5a-ee60a9715d6c">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="b1bacecf-e27d-4964-b3d7-4e17c7c18b95">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="24" type="org.lgna.project.ast.JavaMethodParameter" uuid="d3642bfc-9119-4f15-b080-49e3239322a0">
                                                                                                                                                 <node key="23"/>
@@ -696,7 +696,7 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.DoubleLiteral" uuid="7a49854a-17b9-48d0-b72c-3a94ba764641">
+                                                                                                                                            <node type="org.lgna.project.ast.DoubleLiteral" uuid="4c1f27d2-557e-4d97-97cb-6a7ad27a5192">
                                                                                                                                                 <property name="value">
                                                                                                                                                     <value type="java.lang.Double">0.0</value>
                                                                                                                                                 </property>
@@ -717,11 +717,11 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="56c87572-63a4-49ab-9d3a-edb80eafc247">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="d081069f-fa8c-4b10-8f7a-c01bd59c17a9">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="7b29a065-63ba-4e1f-90fd-0a09f9645ea9">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="8768e1e8-a7a4-4879-9619-40b5159a10aa">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="5b9f2a02-8b97-4c56-a90f-51d5aa96b6a2"/>
+                                                                                                                                <node type="org.lgna.project.ast.ThisExpression" uuid="f2e17590-1639-4df0-97da-16af703d0667"/>
                                                                                                                             </property>
                                                                                                                             <property name="method">
                                                                                                                                 <node key="25" type="org.lgna.project.ast.JavaMethod" uuid="2eb33615-77cc-4571-a624-e0bc54e10dd1">
@@ -735,7 +735,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="d2a1ee8c-429c-4995-8e1b-c1978cb1017e">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="70ba6ef1-654e-4037-bb50-bf3f40183f14">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="26" type="org.lgna.project.ast.JavaMethodParameter" uuid="b947c8de-9631-40d7-b2ef-b01a9f792760">
                                                                                                                                                 <node key="25"/>
@@ -743,7 +743,7 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.StringLiteral" uuid="d2b06f30-98c7-4b29-88d6-d8cce61e6be4">
+                                                                                                                                            <node type="org.lgna.project.ast.StringLiteral" uuid="c67fea45-9c87-435e-9e95-b58475529d54">
                                                                                                                                                 <property name="value">
                                                                                                                                                     <value type="java.lang.String">myScene</value>
                                                                                                                                                 </property>
@@ -764,13 +764,13 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="a4d52b37-31c4-41be-8da4-27482d1d1a87">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="96c4cb8d-d43d-4dcb-a97c-e6d2f6a1b9f0">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="69b33f96-72d3-441b-aa21-0a4518417b91">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="ad65b00a-8448-4243-a1c7-92c91edc1825">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="06930744-a08d-4162-a929-f922b590ff2b">
+                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="abbd4859-d23f-4578-9d71-fe853cc6dbe5">
                                                                                                                                     <property name="expression">
-                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="b8f82956-06ea-469f-8832-e206a5f0bbe2"/>
+                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="32892783-0317-40bf-9345-3f6b7ba7e3ff"/>
                                                                                                                                     </property>
                                                                                                                                     <property name="field">
                                                                                                                                         <node key="27" type="org.lgna.project.ast.UserField" uuid="697a2501-d685-4595-b8e6-36d7c3bb5381">
@@ -838,7 +838,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="c786c957-5ba6-4279-aa22-f400493b2979">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="c53f5c76-d147-474e-a1dd-d3a4d569ae5c">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="2b" type="org.lgna.project.ast.JavaMethodParameter" uuid="3b09527d-5f6e-4efa-a691-52d3b585a257">
                                                                                                                                                 <node key="2a"/>
@@ -846,9 +846,9 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.FieldAccess" uuid="aa57e485-898d-4c4f-83c2-220be94c21db">
+                                                                                                                                            <node type="org.lgna.project.ast.FieldAccess" uuid="70805f98-764e-40ba-8bb6-8da6df9f782e">
                                                                                                                                                 <property name="expression">
-                                                                                                                                                    <node type="org.lgna.project.ast.TypeExpression" uuid="a4b9ef55-9ed1-4ec7-871d-541d06111ea0">
+                                                                                                                                                    <node type="org.lgna.project.ast.TypeExpression" uuid="57b825cc-6441-4aff-a7ee-3becaf8303b1">
                                                                                                                                                         <property name="value">
                                                                                                                                                             <node key="2c" type="org.lgna.project.ast.JavaType" uuid="c377be01-f66d-4a5a-bb4e-fdd185f23782">
                                                                                                                                                                 <type name="org.lgna.story.SGround$SurfaceAppearance"/>
@@ -880,13 +880,13 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="71f149f3-009a-4b07-ac35-dc1dc2313745">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="63c9425f-051e-48fa-ad23-3cdf420b9892">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="49cb1d32-7ba4-48f4-8832-f2b6b43edb7f">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="8140787b-d760-4b6f-a3b4-15d96c1f8cf0">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="edc69bb4-4bf7-48ba-baf8-c2f25c43730f">
+                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="593bec87-4f01-488f-b269-29245adf54fe">
                                                                                                                                     <property name="expression">
-                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="22b20fd7-7560-4faa-8148-97eff866fb6d"/>
+                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="3e37346b-6549-49e3-926c-6928a8af5660"/>
                                                                                                                                     </property>
                                                                                                                                     <property name="field">
                                                                                                                                         <node key="27"/>
@@ -906,7 +906,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="6bf75e0b-ecef-4f93-91ec-a0e52f06c711">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="39ffb741-60ce-42b1-bd79-4718810ca7e9">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="2f" type="org.lgna.project.ast.JavaMethodParameter" uuid="b8be74e4-a3d5-46b4-89bc-53ee7e75cd59">
                                                                                                                                                 <node key="2e"/>
@@ -914,7 +914,7 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.DoubleLiteral" uuid="4ce196bc-c42c-4cb5-9201-988d433a3103">
+                                                                                                                                            <node type="org.lgna.project.ast.DoubleLiteral" uuid="5c88ae27-b651-45df-a1ea-d29c70aee78c">
                                                                                                                                                 <property name="value">
                                                                                                                                                     <value type="java.lang.Double">1.0</value>
                                                                                                                                                 </property>
@@ -935,13 +935,13 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="b9a7b89f-52c2-41d1-803f-30bd49c426bd">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="6dc5234e-2b90-499e-907e-0dc9e06f0421">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="41f08931-8fe2-4533-b58a-a7938f466f9e">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="9d592d2b-7092-48cb-b4a0-b424292ab936">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="91155529-c43b-4000-a745-5e4479bf6713">
+                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="e4b52aa8-3faf-46a4-accd-249a0bba631c">
                                                                                                                                     <property name="expression">
-                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="f5ae044b-1ac9-4a8d-9871-f6d0eff5e036"/>
+                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="cd2db660-5cc3-41ff-8684-fbf06ec00b1f"/>
                                                                                                                                     </property>
                                                                                                                                     <property name="field">
                                                                                                                                         <node key="27"/>
@@ -953,12 +953,12 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="c0331f1a-e805-4941-9e80-3c3d0f6fab77">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="61017c99-7ce7-43fd-9dfd-02aa1309087f">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="26"/>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.StringLiteral" uuid="9e0f2cc4-14dc-4bae-827e-7e82d7cbd0b4">
+                                                                                                                                            <node type="org.lgna.project.ast.StringLiteral" uuid="bfed285e-5ce6-4e42-ade6-9b38de8afc89">
                                                                                                                                                 <property name="value">
                                                                                                                                                     <value type="java.lang.String">ground</value>
                                                                                                                                                 </property>
@@ -979,13 +979,13 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="b554f361-39bf-4106-ad42-45928912daa7">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="e861c976-a3d4-4064-bf64-e1107c3ab191">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="22623445-5436-4ce8-b1c3-4c983a5538ee">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="3bdae312-2332-4056-b6f8-27885478639d">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="b1f3402e-2a00-425c-af41-93d5f4e5b6e1">
+                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="d67abeeb-051c-457a-9685-17268f4eb07f">
                                                                                                                                     <property name="expression">
-                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="4b796d7d-821b-4a21-95d6-28ac406580d9"/>
+                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="625d3a9e-2beb-424d-ae32-8d95531f1156"/>
                                                                                                                                     </property>
                                                                                                                                     <property name="field">
                                                                                                                                         <node key="27"/>
@@ -1004,7 +1004,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="e5c798f0-7e86-447c-82cf-5924bc82a925">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="7a96f371-4dc1-4270-8f52-7cd50ca5c42b">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="31" type="org.lgna.project.ast.JavaMethodParameter" uuid="cb2156d5-a61a-48eb-81ed-d205a07eb2e1">
                                                                                                                                                 <node key="30"/>
@@ -1012,7 +1012,7 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.ThisExpression" uuid="b29a6e91-677f-440c-948d-b4398c328338"/>
+                                                                                                                                            <node type="org.lgna.project.ast.ThisExpression" uuid="ebc90c80-b63c-4034-8480-c26d80503aef"/>
                                                                                                                                         </property>
                                                                                                                                     </node>
                                                                                                                                 </collection>
@@ -1029,13 +1029,13 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="7c152b24-06d2-4f5b-aaf7-77a77ecc3d2d">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="41aa2920-6d83-4c25-88af-647b9ccc1acf">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="418153a8-638b-4926-977d-dc8b78f4a1b8">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="20c7a7e1-a6f2-4fd8-a010-46006f76b955">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="91417b24-4238-4fbe-ac93-edd492329fbc">
+                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="e9757d7e-5bfc-40d4-a1ef-fa51b7ae071a">
                                                                                                                                     <property name="expression">
-                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="60c24efe-e7a0-4fd5-98e2-a99437bcf746"/>
+                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="6c38f58a-10b4-4e4a-93e8-6a4b753ff6b8"/>
                                                                                                                                     </property>
                                                                                                                                     <property name="field">
                                                                                                                                         <node key="32" type="org.lgna.project.ast.UserField" uuid="424a79af-5640-4547-8e22-12640061fb25">
@@ -1095,12 +1095,12 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="77e1a796-7cf4-43a9-9831-7807414b5654">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="cd5bb6a4-fad6-4716-8606-c7744f9c3eb2">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="26"/>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.StringLiteral" uuid="47115f27-1178-4351-988c-262062c8acfc">
+                                                                                                                                            <node type="org.lgna.project.ast.StringLiteral" uuid="9043659c-5906-4087-be75-9ddfd38ed301">
                                                                                                                                                 <property name="value">
                                                                                                                                                     <value type="java.lang.String">camera</value>
                                                                                                                                                 </property>
@@ -1121,13 +1121,13 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="c6091c8c-a03d-44e0-9c5e-086025350b42">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="98fd4bf2-8661-406e-8912-b1c788828e1b">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="ea65e1f8-933c-4ce8-99e0-28efac3f4f3a">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="c8e2290a-b8f4-464e-a0f0-728f97eb361e">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="1387c83e-e317-4694-957c-dbd15d271c62">
+                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="2cef7ad5-05a5-4708-b99a-28dd681bfbcd">
                                                                                                                                     <property name="expression">
-                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="5086b6c2-afa4-4ef8-885e-a78d6b4e8c67"/>
+                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="12e69350-149f-4a7b-9761-010ae1ad7fc1"/>
                                                                                                                                     </property>
                                                                                                                                     <property name="field">
                                                                                                                                         <node key="32"/>
@@ -1146,7 +1146,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="8890d805-ab96-46e2-98db-3614a1141a90">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="8460d8c0-617a-46d6-ad42-1380c660bb0c">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="36" type="org.lgna.project.ast.JavaMethodParameter" uuid="77b393bb-d759-41f0-8c97-4f4fdd318460">
                                                                                                                                                 <node key="35"/>
@@ -1154,7 +1154,7 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.ThisExpression" uuid="b2013ef5-1df9-4216-8e29-0344ac40d031"/>
+                                                                                                                                            <node type="org.lgna.project.ast.ThisExpression" uuid="60f003ef-eb76-4a1b-a425-c246f8dfd115"/>
                                                                                                                                         </property>
                                                                                                                                     </node>
                                                                                                                                 </collection>
@@ -1171,13 +1171,13 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="61dfc637-5216-4f0b-a029-ebeeff8f97d4">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="77f19460-f926-4573-be18-679ddbe4dc1c">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="1c82ae21-a0c9-4646-9e60-900841fddf4e">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="fcfb5c2a-6348-4fdb-91e7-9a1e38a9f35c">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="cc887cb7-f9dc-445d-af8a-c1c8069ce846">
+                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="05a26b1a-d31f-424e-8ffe-4618e80cc27e">
                                                                                                                                     <property name="expression">
-                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="728cf123-814f-4ad1-b18b-8478097b7dab"/>
+                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="0acdae5c-acf1-4f60-8089-951cf399eed0"/>
                                                                                                                                     </property>
                                                                                                                                     <property name="field">
                                                                                                                                         <node key="32"/>
@@ -1197,7 +1197,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="eec78d2d-5db6-4f5b-ae61-260056d6e54a">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="c74c54dd-1626-46a5-83be-b2ab3977458e">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="38" type="org.lgna.project.ast.JavaMethodParameter" uuid="dcfcfb83-2be5-4965-9773-6202541c9887">
                                                                                                                                                 <node key="37"/>
@@ -1205,7 +1205,7 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.InstanceCreation" uuid="aa989610-d4ed-4181-8572-1afafd14f8cb">
+                                                                                                                                            <node type="org.lgna.project.ast.InstanceCreation" uuid="a7a42e46-b01a-4080-bac0-66bd6159d515">
                                                                                                                                                 <property name="constructor">
                                                                                                                                                     <node key="39" type="org.lgna.project.ast.JavaConstructor" uuid="24fce851-d47f-4e73-8e59-7df415f27f65">
                                                                                                                                                         <constructor isVarArgs="false">
@@ -1221,7 +1221,7 @@ DO NOT EDIT</value>
                                                                                                                                                 </property>
                                                                                                                                                 <property name="requiredArguments">
                                                                                                                                                     <collection type="java.util.ArrayList">
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="466af076-10f7-42e0-bbdb-5290851a48fe">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="afd82df0-043b-45f5-b1f2-838b48b5097f">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="3a" type="org.lgna.project.ast.JavaConstructorParameter" uuid="e1905d76-cbd5-4d30-85cf-df828ce825cf">
                                                                                                                                                                     <node key="39"/>
@@ -1229,14 +1229,14 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="09d5ede1-e4c4-43d5-a021-ba1f84b85a78">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="23cbddba-af00-40fe-a983-dc274b7f88ef">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">0.0</value>
                                                                                                                                                                     </property>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                         </node>
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="94bed62b-05cd-49bc-ae1c-08ab4324cf0e">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="8e18040a-7d23-4238-8088-91bcbb8e2b3b">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="3b" type="org.lgna.project.ast.JavaConstructorParameter" uuid="7915e00e-4df9-4a93-8e2e-cb238daf2d70">
                                                                                                                                                                     <node key="39"/>
@@ -1244,14 +1244,14 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="48c1543e-eed6-485c-a613-9df8a0577d96">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="c8b81589-9824-4b2d-9987-989df02e65eb">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">0.995185</value>
                                                                                                                                                                     </property>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                         </node>
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="78612762-ce74-4620-a97e-65add50e3203">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="994ea657-abba-4783-96b7-47a8f3c02be0">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="3c" type="org.lgna.project.ast.JavaConstructorParameter" uuid="8b6244f4-85f3-4005-94e5-6dc07c474165">
                                                                                                                                                                     <node key="39"/>
@@ -1259,14 +1259,14 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="2a16e833-f555-4a3c-9d9c-b22b3d6c4157">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="d0be37ee-ad11-44e4-b85c-0cd94746a9e2">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">0.0980144</value>
                                                                                                                                                                     </property>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                         </node>
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="9ea480ef-7185-4964-967a-58d3a80066a4">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="5b2491f4-b9c1-4622-8bb4-7e0852ea8b20">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="3d" type="org.lgna.project.ast.JavaConstructorParameter" uuid="3072d57a-6b1e-4fd8-acfe-7c27f599b474">
                                                                                                                                                                     <node key="39"/>
@@ -1274,7 +1274,7 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="b157253b-b87f-4244-8842-24a986b92d11">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="929b2ff8-ef3e-4209-98a2-8fa6676acaa8">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">6.12323E-17</value>
                                                                                                                                                                     </property>
@@ -1306,13 +1306,13 @@ DO NOT EDIT</value>
                                                                                                                         <value type="java.lang.Boolean">true</value>
                                                                                                                     </property>
                                                                                                                 </node>
-                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="47762a69-94ce-43c0-9edf-ccac8a157bcb">
+                                                                                                                <node type="org.lgna.project.ast.ExpressionStatement" uuid="2832a719-1d8a-4f97-bbf6-bdb9e3b04f19">
                                                                                                                     <property name="expression">
-                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="d237f9b9-d4b1-49b1-b112-2c0ed9718559">
+                                                                                                                        <node type="org.lgna.project.ast.MethodInvocation" uuid="1b58a50c-3032-4f3c-8b27-4d5bae5c6c97">
                                                                                                                             <property name="expression">
-                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="24882675-0409-4eb4-8050-4c2dfb2a8388">
+                                                                                                                                <node type="org.lgna.project.ast.FieldAccess" uuid="ff92c99a-7a66-40bc-9700-6bff3021098b">
                                                                                                                                     <property name="expression">
-                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="73b9b900-a32a-49e3-ab03-56dfc09a5d5d"/>
+                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="e6c85fdd-1237-4ba8-b1cf-4d2a8d930ba9"/>
                                                                                                                                     </property>
                                                                                                                                     <property name="field">
                                                                                                                                         <node key="32"/>
@@ -1332,7 +1332,7 @@ DO NOT EDIT</value>
                                                                                                                             </property>
                                                                                                                             <property name="requiredArguments">
                                                                                                                                 <collection type="java.util.ArrayList">
-                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="eee215a7-e1f2-4342-8945-2fd3009aa622">
+                                                                                                                                    <node type="org.lgna.project.ast.SimpleArgument" uuid="4933388a-57f7-4bdb-93ce-60c24faf79d5">
                                                                                                                                         <property name="parameter">
                                                                                                                                             <node key="3f" type="org.lgna.project.ast.JavaMethodParameter" uuid="8fc83ddc-92f5-46d8-8c92-c08e7268bd21">
                                                                                                                                                 <node key="3e"/>
@@ -1340,7 +1340,7 @@ DO NOT EDIT</value>
                                                                                                                                             </node>
                                                                                                                                         </property>
                                                                                                                                         <property name="expression">
-                                                                                                                                            <node type="org.lgna.project.ast.InstanceCreation" uuid="7f3260d6-a7d3-4f5d-b4a6-c19ba5b1c936">
+                                                                                                                                            <node type="org.lgna.project.ast.InstanceCreation" uuid="eaf58632-e682-45e1-ba1d-405545b1c7ab">
                                                                                                                                                 <property name="constructor">
                                                                                                                                                     <node key="40" type="org.lgna.project.ast.JavaConstructor" uuid="31d8cde9-9522-47fa-a7a6-4ce3fc6c2439">
                                                                                                                                                         <constructor isVarArgs="false">
@@ -1355,7 +1355,7 @@ DO NOT EDIT</value>
                                                                                                                                                 </property>
                                                                                                                                                 <property name="requiredArguments">
                                                                                                                                                     <collection type="java.util.ArrayList">
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="0875711b-6e27-4201-bee6-e3bddb1c3dc1">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="125dd15c-487e-4573-abac-341d739a8a51">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="41" type="org.lgna.project.ast.JavaConstructorParameter" uuid="540cb2ff-b2b0-4a32-ad57-451fd32809c8">
                                                                                                                                                                     <node key="40"/>
@@ -1363,14 +1363,14 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="713e0bfd-d1e2-481f-a412-105018e119cb">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="ea64415c-323d-405e-9319-ff6c799f49d6">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">9.61E-16</value>
                                                                                                                                                                     </property>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                         </node>
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="5f237ec2-41b3-4574-9fb7-2e31e6f2aeee">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="dab43087-389e-4316-b1a8-e2baf1876371">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="42" type="org.lgna.project.ast.JavaConstructorParameter" uuid="f613d9c0-b5f0-4d2f-9b6e-1d838ccf936d">
                                                                                                                                                                     <node key="40"/>
@@ -1378,14 +1378,14 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="314917d0-44a2-4a9c-b7f4-4940315e86b7">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="dd17031a-a9ae-4ee8-a4ba-cc837c1e47e6">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">1.56</value>
                                                                                                                                                                     </property>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                         </node>
-                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="5c4f9eb9-c813-4e0b-bedb-14888344d67c">
+                                                                                                                                                        <node type="org.lgna.project.ast.SimpleArgument" uuid="cb562ae2-845d-4a7f-b2ec-36812aa11f94">
                                                                                                                                                             <property name="parameter">
                                                                                                                                                                 <node key="43" type="org.lgna.project.ast.JavaConstructorParameter" uuid="acc694e1-e019-4187-a798-3dcc8c760b8e">
                                                                                                                                                                     <node key="40"/>
@@ -1393,7 +1393,7 @@ DO NOT EDIT</value>
                                                                                                                                                                 </node>
                                                                                                                                                             </property>
                                                                                                                                                             <property name="expression">
-                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="9b2d8994-ce3c-468b-8b1e-ed0ccd1c8735">
+                                                                                                                                                                <node type="org.lgna.project.ast.DoubleLiteral" uuid="155dc5f3-21fd-4c98-9a04-2e489328b7bf">
                                                                                                                                                                     <property name="value">
                                                                                                                                                                         <value type="java.lang.Double">-7.85</value>
                                                                                                                                                                     </property>
@@ -1532,7 +1532,107 @@ DO NOT EDIT</value>
                                                                                                                                                         <property name="body">
                                                                                                                                                             <node type="org.lgna.project.ast.BlockStatement" uuid="2e03a728-d784-4824-b7f6-2d21845a288b">
                                                                                                                                                                 <property name="statements">
-                                                                                                                                                                    <collection type="java.util.ArrayList"/>
+                                                                                                                                                                    <collection type="java.util.ArrayList">
+                                                                                                                                                                        <node type="org.lgna.project.ast.ExpressionStatement" uuid="66717af0-0a61-41a5-b734-cde40c224340">
+                                                                                                                                                                            <property name="expression">
+                                                                                                                                                                                <node type="org.lgna.project.ast.MethodInvocation" uuid="6aa735a6-e24b-482b-91b7-474e031344a4">
+                                                                                                                                                                                    <property name="expression">
+                                                                                                                                                                                        <node type="org.lgna.project.ast.ThisExpression" uuid="5ef37763-b6a4-458c-863e-18d85d1aa497"/>
+                                                                                                                                                                                    </property>
+                                                                                                                                                                                    <property name="method">
+                                                                                                                                                                                        <node key="4a" type="org.lgna.project.ast.UserMethod" uuid="893ed68c-0b95-48cb-a5e5-ea1b66cd27b3">
+                                                                                                                                                                                            <property name="isStatic">
+                                                                                                                                                                                                <value type="java.lang.Boolean">false</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="isAbstract">
+                                                                                                                                                                                                <value type="java.lang.Boolean">false</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="isFinal">
+                                                                                                                                                                                                <value type="java.lang.Boolean">false</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="name">
+                                                                                                                                                                                                <value type="java.lang.String">aquiesta</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="accessLevel">
+                                                                                                                                                                                                <value type="org.lgna.project.ast.AccessLevel">PUBLIC</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="isSynchronized">
+                                                                                                                                                                                                <value type="java.lang.Boolean">false</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="isStrictFloatingPoint">
+                                                                                                                                                                                                <value type="java.lang.Boolean">false</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="returnType">
+                                                                                                                                                                                                <node key="6"/>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="requiredParameters">
+                                                                                                                                                                                                <collection type="java.util.ArrayList"/>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="body">
+                                                                                                                                                                                                <node type="org.lgna.project.ast.BlockStatement" uuid="f74a7d39-8542-4eb0-a386-4cb39f509f49">
+                                                                                                                                                                                                    <property name="statements">
+                                                                                                                                                                                                        <collection type="java.util.ArrayList">
+                                                                                                                                                                                                            <node type="org.lgna.project.ast.LocalDeclarationStatement" uuid="0f9fdac8-6552-4976-a4df-c8783956ac2c">
+                                                                                                                                                                                                                <property name="local">
+                                                                                                                                                                                                                    <node key="4b" type="org.lgna.project.ast.UserLocal" uuid="5594024c-d926-4d3b-b03b-9b096aa1a6a1">
+                                                                                                                                                                                                                        <property name="name">
+                                                                                                                                                                                                                            <value type="java.lang.String">aquiestavariable</value>
+                                                                                                                                                                                                                        </property>
+                                                                                                                                                                                                                        <property name="valueType">
+                                                                                                                                                                                                                            <node key="4c" type="org.lgna.project.ast.JavaType" uuid="3511e4cc-83f6-4f1d-90da-ae9b20918cb4">
+                                                                                                                                                                                                                                <type name="java.lang.String"/>
+                                                                                                                                                                                                                            </node>
+                                                                                                                                                                                                                        </property>
+                                                                                                                                                                                                                        <property name="isFinal">
+                                                                                                                                                                                                                            <value type="java.lang.Boolean">false</value>
+                                                                                                                                                                                                                        </property>
+                                                                                                                                                                                                                    </node>
+                                                                                                                                                                                                                </property>
+                                                                                                                                                                                                                <property name="initializer">
+                                                                                                                                                                                                                    <node type="org.lgna.project.ast.StringLiteral" uuid="01c310a0-eafe-4b69-b179-d547eb53bcad">
+                                                                                                                                                                                                                        <property name="value">
+                                                                                                                                                                                                                            <value type="java.lang.String">meencontro</value>
+                                                                                                                                                                                                                        </property>
+                                                                                                                                                                                                                    </node>
+                                                                                                                                                                                                                </property>
+                                                                                                                                                                                                                <property name="isEnabled">
+                                                                                                                                                                                                                    <value type="java.lang.Boolean">true</value>
+                                                                                                                                                                                                                </property>
+                                                                                                                                                                                                            </node>
+                                                                                                                                                                                                        </collection>
+                                                                                                                                                                                                    </property>
+                                                                                                                                                                                                    <property name="isEnabled">
+                                                                                                                                                                                                        <value type="java.lang.Boolean">true</value>
+                                                                                                                                                                                                    </property>
+                                                                                                                                                                                                </node>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="managementLevel">
+                                                                                                                                                                                                <value type="org.lgna.project.ast.ManagementLevel">NONE</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="isSignatureLocked">
+                                                                                                                                                                                                <value type="java.lang.Boolean">false</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                            <property name="isDeletionAllowed">
+                                                                                                                                                                                                <value type="java.lang.Boolean">true</value>
+                                                                                                                                                                                            </property>
+                                                                                                                                                                                        </node>
+                                                                                                                                                                                    </property>
+                                                                                                                                                                                    <property name="requiredArguments">
+                                                                                                                                                                                        <collection type="java.util.ArrayList"/>
+                                                                                                                                                                                    </property>
+                                                                                                                                                                                    <property name="variableArguments">
+                                                                                                                                                                                        <collection type="java.util.ArrayList"/>
+                                                                                                                                                                                    </property>
+                                                                                                                                                                                    <property name="keyedArguments">
+                                                                                                                                                                                        <collection type="java.util.ArrayList"/>
+                                                                                                                                                                                    </property>
+                                                                                                                                                                                </node>
+                                                                                                                                                                            </property>
+                                                                                                                                                                            <property name="isEnabled">
+                                                                                                                                                                                <value type="java.lang.Boolean">true</value>
+                                                                                                                                                                            </property>
+                                                                                                                                                                        </node>
+                                                                                                                                                                    </collection>
                                                                                                                                                                 </property>
                                                                                                                                                                 <property name="isEnabled">
                                                                                                                                                                     <value type="java.lang.Boolean">true</value>
@@ -1584,7 +1684,7 @@ DO NOT EDIT</value>
                                                                                                     <value type="java.lang.Boolean">true</value>
                                                                                                 </property>
                                                                                             </node>
-                                                                                            <node key="4a" type="org.lgna.project.ast.UserMethod" uuid="1f86db2e-939f-4194-ad88-eb7e722ce7c0">
+                                                                                            <node key="4d" type="org.lgna.project.ast.UserMethod" uuid="1f86db2e-939f-4194-ad88-eb7e722ce7c0">
                                                                                                 <property name="isStatic">
                                                                                                     <value type="java.lang.Boolean">false</value>
                                                                                                 </property>
@@ -1611,22 +1711,22 @@ DO NOT EDIT</value>
                                                                                                 </property>
                                                                                                 <property name="requiredParameters">
                                                                                                     <collection type="java.util.ArrayList">
-                                                                                                        <node key="4b" type="org.lgna.project.ast.UserParameter" uuid="ab3184d2-6207-4b41-9aa0-fca5f24ca842">
+                                                                                                        <node key="4e" type="org.lgna.project.ast.UserParameter" uuid="ab3184d2-6207-4b41-9aa0-fca5f24ca842">
                                                                                                             <property name="name">
                                                                                                                 <value type="java.lang.String">isActive</value>
                                                                                                             </property>
                                                                                                             <property name="valueType">
-                                                                                                                <node key="4c" type="org.lgna.project.ast.JavaType" uuid="850853af-963c-4f7b-a6dc-66a6ab9b3353">
+                                                                                                                <node key="4f" type="org.lgna.project.ast.JavaType" uuid="850853af-963c-4f7b-a6dc-66a6ab9b3353">
                                                                                                                     <type name="java.lang.Boolean"/>
                                                                                                                 </node>
                                                                                                             </property>
                                                                                                         </node>
-                                                                                                        <node key="4d" type="org.lgna.project.ast.UserParameter" uuid="05c7d339-2b73-422e-b661-b13984308779">
+                                                                                                        <node key="50" type="org.lgna.project.ast.UserParameter" uuid="05c7d339-2b73-422e-b661-b13984308779">
                                                                                                             <property name="name">
                                                                                                                 <value type="java.lang.String">activationCount</value>
                                                                                                             </property>
                                                                                                             <property name="valueType">
-                                                                                                                <node key="4e" type="org.lgna.project.ast.JavaType" uuid="9b7e6870-3b71-4cee-bf31-06dfbb0a355d">
+                                                                                                                <node key="51" type="org.lgna.project.ast.JavaType" uuid="9b7e6870-3b71-4cee-bf31-06dfbb0a355d">
                                                                                                                     <type name="java.lang.Integer"/>
                                                                                                                 </node>
                                                                                                             </property>
@@ -1644,7 +1744,7 @@ DO NOT EDIT</value>
                                                                                                                                 <property name="expression">
                                                                                                                                     <node type="org.lgna.project.ast.ParameterAccess" uuid="536af58a-3433-4b3f-a496-1788d0281ff1">
                                                                                                                                         <property name="parameter">
-                                                                                                                                            <node key="4b"/>
+                                                                                                                                            <node key="4e"/>
                                                                                                                                         </property>
                                                                                                                                     </node>
                                                                                                                                 </property>
@@ -1659,15 +1759,15 @@ DO NOT EDIT</value>
                                                                                                                                                                 <property name="expression">
                                                                                                                                                                     <node type="org.lgna.project.ast.RelationalInfixExpression" uuid="cd7a627d-00eb-412e-9305-f57be3585901">
                                                                                                                                                                         <property name="leftOperandType">
-                                                                                                                                                                            <node key="4e"/>
+                                                                                                                                                                            <node key="51"/>
                                                                                                                                                                         </property>
                                                                                                                                                                         <property name="rightOperandType">
-                                                                                                                                                                            <node key="4e"/>
+                                                                                                                                                                            <node key="51"/>
                                                                                                                                                                         </property>
                                                                                                                                                                         <property name="leftOperand">
                                                                                                                                                                             <node type="org.lgna.project.ast.ParameterAccess" uuid="a2288b64-94ff-4ee3-816e-9175d50299b3">
                                                                                                                                                                                 <property name="parameter">
-                                                                                                                                                                                    <node key="4d"/>
+                                                                                                                                                                                    <node key="50"/>
                                                                                                                                                                                 </property>
                                                                                                                                                                             </node>
                                                                                                                                                                         </property>
@@ -1780,7 +1880,7 @@ DO NOT EDIT</value>
                                                                                                                                                                                     <node type="org.lgna.project.ast.ThisExpression" uuid="d5c848e0-5be0-411f-86fb-a540e3f57fa3"/>
                                                                                                                                                                                 </property>
                                                                                                                                                                                 <property name="method">
-                                                                                                                                                                                    <node key="4f" type="org.lgna.project.ast.JavaMethod" uuid="8bada19d-32bc-434b-8d91-eba93544e8d1">
+                                                                                                                                                                                    <node key="52" type="org.lgna.project.ast.JavaMethod" uuid="8bada19d-32bc-434b-8d91-eba93544e8d1">
                                                                                                                                                                                         <method isVarArgs="false" name="restoreStateAndEventListeners">
                                                                                                                                                                                             <declaringClass name="org.lgna.story.SScene"/>
                                                                                                                                                                                             <parameters/>
@@ -1834,7 +1934,7 @@ DO NOT EDIT</value>
                                                                                                                                                     <node type="org.lgna.project.ast.ThisExpression" uuid="5c9a113f-be2e-4c6a-a779-f286e8022599"/>
                                                                                                                                                 </property>
                                                                                                                                                 <property name="method">
-                                                                                                                                                    <node key="50" type="org.lgna.project.ast.JavaMethod" uuid="cbb67405-f9e5-4478-b93a-f65dcfc49c63">
+                                                                                                                                                    <node key="53" type="org.lgna.project.ast.JavaMethod" uuid="cbb67405-f9e5-4478-b93a-f65dcfc49c63">
                                                                                                                                                         <method isVarArgs="false" name="preserveStateAndEventListeners">
                                                                                                                                                             <declaringClass name="org.lgna.story.SScene"/>
                                                                                                                                                             <parameters/>
@@ -1884,6 +1984,7 @@ DO NOT EDIT</value>
                                                                                                     <value type="java.lang.Boolean">true</value>
                                                                                                 </property>
                                                                                             </node>
+                                                                                            <node key="4a"/>
                                                                                         </collection>
                                                                                     </property>
                                                                                     <property name="fields">
